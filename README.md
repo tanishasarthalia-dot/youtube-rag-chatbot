@@ -4,7 +4,10 @@ Ask questions about any YouTube video and get answers **grounded in the transcri
 
 Built with **LangChain (LCEL)**, **FAISS**, **HuggingFace sentence-transformers**, **Google Gemini**, and **Streamlit**.
 
-> 🔗 Live demo: _add your Streamlit Cloud link_  ·  📸 _add a screenshot: `docs/screenshot.png`_
+> 🔗 Live demo: _coming soon_
+
+![App screenshot](demo-app.png)
+![Answer with timestamps](demo-answer.png)
 
 ## ✨ Features
 - **Retrieval-Augmented Generation**: answers only from the video's content, says "I don't know" otherwise (reduces hallucination)
@@ -41,7 +44,7 @@ YouTube URL ──► Transcript API ──(blocked?)──► Manual JSON fallb
 
 ## 🚀 Run locally
 ```bash
-git clone https://github.com/<your-username>/youtube-rag-chatbot.git
+git clone https://github.com/tanishasarthalia-dot/youtube-rag-chatbot.git
 cd youtube-rag-chatbot
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
