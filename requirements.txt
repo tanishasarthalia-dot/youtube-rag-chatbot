@@ -1,0 +1,9 @@
+streamlit>=1.38
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-google-genai>=2.0
+langchain-huggingface>=0.1
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+youtube-transcript-api>=1.0
+python-dotenv>=1.0
