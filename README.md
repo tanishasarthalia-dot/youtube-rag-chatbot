@@ -4,7 +4,7 @@ Ask questions about any YouTube video and get answers **grounded in the transcri
 
 Built with **LangChain (LCEL)**, **FAISS**, **HuggingFace sentence-transformers**, **Google Gemini**, and **Streamlit**.
 
-> 🔗 Live demo: _coming soon_
+> 🔗 Live demo:https://tanisha-youtube-rag.streamlit.app
 
 ![App screenshot](demo-app.png)
 ![Answer with timestamps](demo-answer.png)
